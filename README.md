@@ -4,7 +4,7 @@
   <h3>Desenvolvedor Front-end apaixonado por criar experiências web incríveis</h3>
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-olive)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://devmatheusoliv.github.io/PortfolioMat/))
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://devmatheusoliv.github.io/PortfolioMat/)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Matheus.luiz0524@gmail.com)
 </div>
 
