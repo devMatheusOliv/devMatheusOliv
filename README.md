@@ -4,8 +4,8 @@
   <h3>Front-end Developer passionate about creating amazing web experiences</h3>
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-olive)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](portfoliomat.site)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Matheus.luiz0524@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://portfoliomat.site)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.luiz0524@gmail.com)
 </div>
 
 ## 💫 About Me
@@ -102,9 +102,10 @@ Interactive quiz developed with React that tests knowledge about Brazil and prog
 
 ## 📫 Get in Touch
 
-- 📧 Email: [Matheus.luiz0524@gmail.com](mailto:Matheus.luiz0524@gmail.com)
+- 📧 Email: [matheus.luiz0524@gmail.com](mailto:matheus.luiz0524@gmail.com)
 - 💼 LinkedIn: [Matheus Oliveira](https://www.linkedin.com/in/matheus-olive)
 - 🐱 GitHub: [devMatheusOliv](https://github.com/devMatheusOliv)
+- 📸 Instagram: [m4theus.oliv](https://www.instagram.com/m4theus.oliv/)
 
 ---
 
